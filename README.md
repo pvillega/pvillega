@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a freelancer, living in Basel. Find me at <a rel="me" href="https://functional.cafe/@pvillega">Mastodon</a> or [my website](https://perevillega.com)
+I'm a freelancer, living in Basel. Find me at <a rel="me" href="https://mastodon.social/@pvillega@mastodon.social">Mastodon</a> or [my website](https://perevillega.com)
 
 <!--
 **pvillega/pvillega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
