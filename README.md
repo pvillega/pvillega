@@ -1,6 +1,20 @@
-### Hi there 👋
+# 👋 Hello, I'm Pere Villega
 
-I'm a freelancer, living in Basel. Find me at <a rel="me" href="https://mastodon.social/@pvillega@mastodon.social">Mastodon</a> or [my website](https://perevillega.com)
+Principal Engineer & Technical Advisor with over 20 years of experience in designing scalable systems and guiding teams to technological excellence.
+
+I'm currently living in Basel, Switzerland. I am self-employed, and open to offers for contracts. 
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on innovative projects or discuss the latest in tech. Reach out to me:
+
+- 🔗 [LinkedIn](https://linkedin.com/in/perevillega)
+- 🌐 [Website](https://www.perevillega.com)
+- 📧 [Email](mailto:pvillega@aracon.com)
+- 💬 <a rel="me" href="https://mastodon.social/@pvillega@mastodon.social">Mastodon</a>
+
+Pleased to meet you.
+
 
 <!--
 **pvillega/pvillega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
