@@ -11,7 +11,7 @@ I'm always excited to collaborate on innovative projects or discuss the latest i
 - 🔗 [LinkedIn](https://linkedin.com/in/perevillega)
 - 🌐 [Website](https://www.perevillega.com)
 - 📧 [Email](mailto:pvillega@aracon.com)
-- 💬 <a rel="me" href="https://mastodon.social/@pvillega@mastodon.social">Mastodon</a>
+- 💬 <a rel="me" href="https://bsky.app/profile/perevillega.com">Bluesky</a>
 
 Pleased to meet you.
 
