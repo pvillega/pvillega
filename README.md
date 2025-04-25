@@ -2,7 +2,7 @@
 
 Principal Engineer & Technical Advisor with over 20 years of experience in designing scalable systems and guiding teams to technological excellence.
 
-I'm currently living in Basel, Switzerland. I am self-employed, and open to offers for contracts. 
+I'm currently living in Barcelona, Spain. I am self-employed, and open to offers for contracts. 
 
 ## 🤝 Let's Connect!
 
